@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+html {font-size:100%;}
+
+
+body { 
+  background-color:#dadacc;
+  color:#432;
+  line-height:1.7;
+  font-family:"Yu Gothic Medium", sans-serif;
+}
+
+
+#div1 {
+  display: inline-block;
+}
+
+.11 {
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  background:#336e7e;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.12 {
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  background:#123f52;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+
+.13 {
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  background:#e21e19;
+  margin-top: 100px;
+  margin-left: 300px;
+}
